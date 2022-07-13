@@ -17,6 +17,7 @@ CPU：i9 10900ES（QTB1）
 # 版本
 
 Mac：12.4
+
 OpenCore：0.8.2
 
 # Bios设置
