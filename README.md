@@ -14,6 +14,11 @@ CPU：i9 10900ES（QTB1）
 
 内存：海盗船 16GB 3000 DDR4 x2
 
+# 版本
+
+Mac：12.4
+OpenCore：0.8.2
+
 # Bios设置
 
 CFGLOCK——关
@@ -25,3 +30,7 @@ Secure BOOT——关
 # 说明
 
 一切工作良好，除了后面板的USB接口，因为具有过多的USB接口，只能将最上方两个USB接口定义为2.0，舍弃3.0通道，用来连接鼠标键盘。前置包含一个使用转换器转换得到的Type-C接口和一个USB3.0，如果需要使用此EFI，请重新定制USB。
+
+![截屏2022-07-13 22 57 29](https://user-images.githubusercontent.com/100589466/178768142-bda20084-255c-4f77-8755-0a68ec7025b9.png)
+
+![截屏2022-07-13 22 57 51](https://user-images.githubusercontent.com/100589466/178768071-eb9c8e5f-46cf-43f8-b9f7-40936b773f2d.png)
